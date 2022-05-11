@@ -9,7 +9,7 @@ Created on Thu Apr 28 14:01:31 2022
 import pandas as pd
 
 #dataset
-df = pd.read_csv('C:/Users/korin/OneDrive/Documents/GitHub/no-show-appointments-project/no_show_may_2016.csv')
+df = pd.read_csv("C:/Users/korin/OneDrive/Documents/GitHub/no_show_proj/no_show_may_2016.csv")
 
 #cleaning:
 #df.info()
